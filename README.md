@@ -17,7 +17,7 @@ to this assignment scattered throughout the handout:
 
 Nokogiri docs: http://nokogiri.org/
 
-Docs for Ruby libraries Net::HTTP, URI, CGI:  http://ruby-doc.org/
+Docs for Ruby libraries Net::HTTP, URI, CGI:  http://ruby-doc.org/stdlib-1.9.3
 
 # Background: The Oracle of Bacon
 
